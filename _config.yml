@@ -1,0 +1,23 @@
+name: Pxls
+favicon: null
+layout_spectrum: 0.9183292565867305
+typography_spectrum: 0.45209566899575293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7203682076651603
+  lightness: 0.9939590329304338
+  saturation: 0.7578192567452788
+  rhythmicContrast: 0.05907185445539653
+purpose: []
